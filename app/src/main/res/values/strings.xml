@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLinkDemo</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://crazy1235.github.io\",\n  }\n}]</string>
+</resources>
