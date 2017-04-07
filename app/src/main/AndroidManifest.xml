@@ -25,7 +25,6 @@
             android:label="@string/title_activity_other"
             android:launchMode="singleTop">
 
-
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
 
@@ -35,7 +34,7 @@
                 <data
                     android:scheme="https"
                     android:host="crazy1235.github.io"
-                    android:pathPrefix="/jacksen/" />
+                    android:pathPattern="/jacksen" />
             </intent-filter>
         </activity>
     </application>
